@@ -1,0 +1,34 @@
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.details img {
+    margin-bottom: 20px;
+}
+
+.details h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.details p {
+    color: #666;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+
+
+
+.button {
+    text-decoration: none;
+    color: black;
+}

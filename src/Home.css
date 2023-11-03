@@ -1,0 +1,9 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+}
+
+.linktag {
+    text-decoration: none;
+    color: black;
+}

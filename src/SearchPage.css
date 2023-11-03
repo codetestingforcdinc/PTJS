@@ -1,0 +1,12 @@
+.searchPage__info {
+    padding: 25px;
+}
+
+.searchPage__info>p {
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.searchPage__info>h1 {
+    margin-bottom: 30px;
+}
