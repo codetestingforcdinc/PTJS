@@ -42,8 +42,8 @@ function Privacy() {
 
     <h2>8. Contact Us</h2>
     <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at exploretutorialsyt@gmail.com.</p>
-</body>
-</html>
+ 
+    </div>
 
 
 
