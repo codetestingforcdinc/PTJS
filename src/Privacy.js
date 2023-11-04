@@ -6,7 +6,7 @@ function Privacy() {
     <div>
 
     <h1>Privacy Policy for PTJS Inc.</h1>
-    <p><strong>Effective Date: [Date]</strong></p>
+    
     <h2>1. Introduction</h2>
     <p>Welcome to PTJS Inc., a part-time job finding website dedicated to helping you find the perfect part-time employment opportunities. At PTJS Inc., we take your privacy seriously and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our website or related services.</p>
 
