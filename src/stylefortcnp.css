@@ -1,4 +1,7 @@
-p{
-  font-size: 18px;
-  
-}
+   *{
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
